@@ -11,9 +11,9 @@ Welcome to Roll-A-Ball, a small but captivating Unity project where players emba
 - **Mind the Gap**: Be cautious not to overshoot your jumps and fall off the map! Precision and timing are crucial to your success.
 
 ### Showcase:
-Watch our Roll-A-Ball demo in action:
+Watch the Roll-A-Ball demo in action:
 
-[![Roll-A-Ball Demo](https://youtu.be/f2R8AJNulrE)](https://youtu.be/f2R8AJNulrE)
+[![Watch the video](https://img.youtube.com/vi/f2R8AJNulrE/0.jpg)](https://www.youtube.com/watch?v=f2R8AJNulrE)
 
 ### How to Play:
 1. Download the latest release.
